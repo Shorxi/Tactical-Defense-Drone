@@ -19,8 +19,11 @@ Upon mid-air collision (external impingement mixing), the fluids instantly cross
    A comprehensive Python script demonstrating the physical kinematics, ballistic trajectories, and aerodynamic collapse. 
    * **Note for IT/Analysis:** The script is designed to run in headless mode (`matplotlib.use("Agg")`). It generates high-resolution MP4/GIF telemetry data and will safely fall back to PillowWriter if FFmpeg is unavailable. It requires `numpy` and `matplotlib`.
 
-2. **`Tactical-Interception-Briefing.html`**  
+2. **`Tactical-Interception-Briefing.html`**
+### Live [`> Demo <`](https://zingy-granita-d61164.netlify.app)
    A standalone, zero-dependency dashboard visualizing the tactical approach, target lock, and interception timeline. It includes an interactive scientific panel for calculating the apparent dynamic viscosity of the hydrogel using the power-law fluid model.
+
+
 
 ## Execution Guide
 To run the kinematic simulation locally in a secure sandbox:
