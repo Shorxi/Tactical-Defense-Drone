@@ -1,3 +1,5 @@
+<img width="2048" height="1152" alt="open_origin_architecture_blueprint" src="https://github.com/user-attachments/assets/02a4c1fd-49b1-4556-a6d8-f747fb87681a" />
+
 # Open Origin Architecture: Tactical Soft-Kill Interception (Counter-UAS)
 
 **Lead Architect:** Emanuel Schaaf  
